@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.017853,
-              40.311287
+              -105.890329,
+              40.307556
             ],
             [
               -105.565396,
-              40.311287
+              40.307556
             ],
             [
               -105.565396,
-              40.662888
+              40.663509
             ],
             [
-              -106.017853,
-              40.662888
+              -105.890329,
+              40.663509
             ],
             [
-              -106.017853,
-              40.311287
+              -105.890329,
+              40.307556
             ]
           ]
         ]
@@ -39,29 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.333798,
-          40.661316
-        ]
-      },
-      "properties": {
-        "name": "Poudre Supply Canal",
-        "type": "canal",
-        "description": "Proposed canal system running along the northern portion of the map"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.787293,
-          40.396047
+          -105.778014,
+          40.308446
         ]
       },
       "properties": {
         "name": "Grand Lake",
         "type": "lake",
-        "description": "Natural lake connected to proposed water infrastructure system"
+        "description": "Natural lake shown as part of the water supply system"
       }
     },
     {
@@ -69,14 +54,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.215833,
-          40.312196
+          -105.221436,
+          40.399967
         ]
       },
       "properties": {
-        "name": "Carter Lake Reservoir",
+        "name": "Proposed Carter Lake Reservoir",
         "type": "reservoir",
-        "description": "Proposed reservoir with associated dam infrastructure"
+        "description": "Planned reservoir shown on the eastern portion of the map"
       }
     },
     {
@@ -84,14 +69,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.787293,
-          40.396047
+          -105.674372,
+          40.40082
         ]
       },
       "properties": {
-        "name": "North Fork Diversion Dam",
+        "name": "Proposed North Fork Diversion Dam",
         "type": "dam",
-        "description": "Proposed diversion dam structure"
+        "description": "Planned dam structure shown in the central portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.105498,
+          40.574628
+        ]
+      },
+      "properties": {
+        "name": "Poudre Supply Canal",
+        "type": "canal",
+        "description": "Proposed water supply canal running along the eastern portion of the map"
       }
     }
   ]
