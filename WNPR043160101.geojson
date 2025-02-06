@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -105.102607,
-              40.13793
+              -105.329535,
+              40.137856
             ],
             [
-              -104.989138,
-              40.13793
+              -105.21588,
+              40.137856
             ],
             [
-              -104.989138,
-              40.225976
+              -105.21588,
+              40.226905
             ],
             [
-              -105.102607,
-              40.225976
+              -105.329535,
+              40.226905
             ],
             [
-              -105.102607,
-              40.13793
+              -105.329535,
+              40.137856
             ]
           ]
         ]
@@ -39,14 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.102607,
-          40.22499
+          -105.32903,
+          40.137856
         ]
       },
       "properties": {
         "name": "Mountain Supply Ditch",
         "type": "ditch",
-        "description": "Main irrigation ditch system shown in blue lines traversing the property"
+        "description": "Main irrigation ditch system shown in blue lines traversing the mapped area"
       }
     },
     {
@@ -54,14 +54,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.989307,
-          40.138644
+          -105.329535,
+          40.226905
         ]
       },
       "properties": {
-        "name": "Supply Works",
-        "type": "water supply works",
-        "description": "Water supply infrastructure marked in the eastern portion of the map"
+        "name": "Watershed Area",
+        "type": "watershed",
+        "description": "Large watershed area shown in light green shading in the northern portion of the map"
       }
     },
     {
@@ -69,14 +69,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.102607,
-          40.22499
+          -105.216247,
+          40.137925
         ]
       },
       "properties": {
         "name": "Irrigated Lands",
-        "type": "irrigation zone",
-        "description": "Areas marked for irrigation purposes, shown in the colored regions of the map"
+        "type": "irrigated area",
+        "description": "Parcels of irrigated land shown in blue shading in the eastern portion of the map"
       }
     }
   ]
