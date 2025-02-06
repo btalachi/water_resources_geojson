@@ -39,44 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.104109,
-          40.661624
+          -105.333798,
+          40.661316
         ]
       },
       "properties": {
         "name": "Poudre Supply Canal",
         "type": "canal",
-        "description": "Proposed canal system shown in the northeastern portion of the map"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.221436,
-          40.399967
-        ]
-      },
-      "properties": {
-        "name": "Carter Lake",
-        "type": "reservoir",
-        "description": "Existing lake with associated infrastructure including inlet and outlet tunnels"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.778014,
-          40.308446
-        ]
-      },
-      "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "description": "Natural lake shown with proposed diversions and water management structures"
+        "description": "Proposed canal system running along the northern portion of the map"
       }
     },
     {
@@ -89,9 +59,39 @@
         ]
       },
       "properties": {
-        "name": "Proposed N Fork Diversion Dam",
+        "name": "Grand Lake",
+        "type": "lake",
+        "description": "Natural lake connected to proposed water infrastructure system"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.215833,
+          40.312196
+        ]
+      },
+      "properties": {
+        "name": "Carter Lake Reservoir",
+        "type": "reservoir",
+        "description": "Proposed reservoir with associated dam infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.787293,
+          40.396047
+        ]
+      },
+      "properties": {
+        "name": "North Fork Diversion Dam",
         "type": "dam",
-        "description": "Planned dam structure on the North Fork"
+        "description": "Proposed diversion dam structure"
       }
     }
   ]
