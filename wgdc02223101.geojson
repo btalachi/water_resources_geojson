@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.52599,
+              37.874815
+            ],
+            [
+              -102.353567,
+              37.874815
+            ],
+            [
+              -102.353567,
+              40.84426
+            ],
+            [
+              -103.52599,
+              40.84426
+            ],
+            [
+              -103.52599,
+              37.874815
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.079773,
+          40.400857
+        ]
+      },
+      "properties": {
+        "name": "Lost Creek",
+        "type": "basin",
+        "description": "Designated basin in the western portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.51276,
+          40.400067
+        ]
+      },
+      "properties": {
+        "name": "Camp Creek",
+        "type": "basin",
+        "description": "Designated basin area located in the central-western portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.096407,
+          39.179341
+        ]
+      },
+      "properties": {
+        "name": "Upper Big Sandy",
+        "type": "basin",
+        "description": "Water management district in the western portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.099709,
+          38.745502
+        ]
+      },
+      "properties": {
+        "name": "Upper Black Squirrel Creek",
+        "type": "basin",
+        "description": "Designated basin in the southwestern portion of the map"
+      }
+    }
+  ]
+}
