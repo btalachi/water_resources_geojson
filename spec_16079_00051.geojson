@@ -46,7 +46,7 @@
       "properties": {
         "name": "South Platte River",
         "type": "river",
-        "description": "Major river system running through the mapped area, shown as a prominent watercourse"
+        "description": "Major river system running through the mapped area, shown as a prominent water feature with associated irrigation channels"
       }
     },
     {
@@ -61,7 +61,7 @@
       "properties": {
         "name": "Irrigation Canals",
         "type": "canal",
-        "description": "Network of irrigation canals and ditches connecting to various farm properties"
+        "description": "Network of irrigation channels and ditches connecting to farms throughout the region"
       }
     }
   ]
