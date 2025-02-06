@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.989307,
+              40.13814
+            ],
+            [
+              -104.876648,
+              40.13814
+            ],
+            [
+              -104.876648,
+              40.225976
+            ],
+            [
+              -104.989307,
+              40.225976
+            ],
+            [
+              -104.989307,
+              40.13814
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.876648,
+          40.13814
+        ]
+      },
+      "properties": {
+        "name": "South Platte River",
+        "type": "river",
+        "description": "Major river system running through the mapped area, shown as a prominent watercourse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.989138,
+          40.225976
+        ]
+      },
+      "properties": {
+        "name": "Irrigation Canals",
+        "type": "canal",
+        "description": "Network of irrigation canals and ditches connecting to various farm properties"
+      }
+    }
+  ]
+}
