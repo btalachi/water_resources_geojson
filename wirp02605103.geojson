@@ -1,1 +1,83 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.83, 40.25]}, "properties": {"name": "Grand Lake", "type": "lake", "description": "Natural lake connected to proposed water supply system"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.7, 40.35]}, "properties": {"name": "Proposed Power Supply Canal", "type": "canal", "description": "Planned canal system for power generation and water supply"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.68, 40.32]}, "properties": {"name": "Carter Lake Reservoir", "type": "reservoir", "description": "Proposed reservoir with associated inlet and outlet tunnels"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.85, 40.28]}, "properties": {"name": "North Fork Diversion Dam", "type": "dam", "description": "Proposed dam structure on the North Fork"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -106.131759,
+              40.311287
+            ],
+            [
+              -105.66774,
+              40.311287
+            ],
+            [
+              -105.66774,
+              40.663455
+            ],
+            [
+              -106.131759,
+              40.663455
+            ],
+            [
+              -106.131759,
+              40.311287
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.823067,
+          40.2522073
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake",
+        "type": "lake",
+        "description": "Natural lake shown as part of the water supply system"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.917157,
+          41.2851284
+        ]
+      },
+      "properties": {
+        "name": "Carter Lake",
+        "type": "reservoir",
+        "description": "Proposed reservoir site with associated infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25579574221423,
+          40.78464618091645
+        ]
+      },
+      "properties": {
+        "name": "North Fork Cache la Poudre River",
+        "type": "river",
+        "description": "Major river system shown with proposed supply canal"
+      }
+    }
+  ]
+}
