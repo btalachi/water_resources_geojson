@@ -8,23 +8,23 @@
         "coordinates": [
           [
             [
-              -106.131759,
+              -106.017853,
               40.311287
             ],
             [
-              -105.66774,
+              -105.565396,
               40.311287
             ],
             [
-              -105.66774,
-              40.663455
+              -105.565396,
+              40.662888
             ],
             [
-              -106.131759,
-              40.663455
+              -106.017853,
+              40.662888
             ],
             [
-              -106.131759,
+              -106.017853,
               40.311287
             ]
           ]
@@ -39,14 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.823067,
-          40.2522073
+          -105.104109,
+          40.661624
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "description": "Natural lake shown as part of the water supply system"
+        "name": "Poudre Supply Canal",
+        "type": "canal",
+        "description": "Proposed canal system shown in the northeastern portion of the map"
       }
     },
     {
@@ -54,14 +54,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.917157,
-          41.2851284
+          -105.221436,
+          40.399967
         ]
       },
       "properties": {
         "name": "Carter Lake",
         "type": "reservoir",
-        "description": "Proposed reservoir site with associated infrastructure"
+        "description": "Existing lake with associated infrastructure including inlet and outlet tunnels"
       }
     },
     {
@@ -69,14 +69,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.25579574221423,
-          40.78464618091645
+          -105.778014,
+          40.308446
         ]
       },
       "properties": {
-        "name": "North Fork Cache la Poudre River",
-        "type": "river",
-        "description": "Major river system shown with proposed supply canal"
+        "name": "Grand Lake",
+        "type": "lake",
+        "description": "Natural lake shown with proposed diversions and water management structures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.787293,
+          40.396047
+        ]
+      },
+      "properties": {
+        "name": "Proposed N Fork Diversion Dam",
+        "type": "dam",
+        "description": "Planned dam structure on the North Fork"
       }
     }
   ]
