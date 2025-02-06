@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.102607,
+              40.13793
+            ],
+            [
+              -104.989138,
+              40.13793
+            ],
+            [
+              -104.989138,
+              40.225976
+            ],
+            [
+              -105.102607,
+              40.225976
+            ],
+            [
+              -105.102607,
+              40.13793
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Map Boundary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.102607,
+          40.22499
+        ]
+      },
+      "properties": {
+        "name": "Mountain Supply Ditch",
+        "type": "ditch",
+        "description": "Main irrigation ditch system shown in blue lines traversing the property"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.989307,
+          40.138644
+        ]
+      },
+      "properties": {
+        "name": "Supply Works",
+        "type": "water supply works",
+        "description": "Water supply infrastructure marked in the eastern portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.102607,
+          40.22499
+        ]
+      },
+      "properties": {
+        "name": "Irrigated Lands",
+        "type": "irrigation zone",
+        "description": "Areas marked for irrigation purposes, shown in the colored regions of the map"
+      }
+    }
+  ]
+}
