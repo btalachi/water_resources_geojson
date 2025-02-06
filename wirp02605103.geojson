@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -105.890329,
-              40.307556
+              -105.909652,
+              40.401447
             ],
             [
-              -105.565396,
-              40.307556
+              -105.560902,
+              40.401447
             ],
             [
-              -105.565396,
-              40.663509
+              -105.560902,
+              40.661529
             ],
             [
-              -105.890329,
-              40.663509
+              -105.909652,
+              40.661529
             ],
             [
-              -105.890329,
-              40.307556
+              -105.909652,
+              40.401447
             ]
           ]
         ]
@@ -39,14 +39,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.778014,
-          40.308446
+          -105.218895,
+          40.661533
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "description": "Natural lake shown as part of the water supply system"
+        "name": "Cache la Poudre River",
+        "type": "river",
+        "description": "Major river system flowing through the northern portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.105498,
+          40.574628
+        ]
+      },
+      "properties": {
+        "name": "Proposed Poudre Supply Canal",
+        "type": "canal",
+        "description": "Planned water conveyance system running near Fort Collins"
       }
     },
     {
@@ -61,7 +76,7 @@
       "properties": {
         "name": "Proposed Carter Lake Reservoir",
         "type": "reservoir",
-        "description": "Planned reservoir shown on the eastern portion of the map"
+        "description": "Planned water storage facility in the eastern portion of the map"
       }
     },
     {
@@ -69,29 +84,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.674372,
-          40.40082
+          -105.778014,
+          40.308446
         ]
       },
       "properties": {
-        "name": "Proposed North Fork Diversion Dam",
-        "type": "dam",
-        "description": "Planned dam structure shown in the central portion of the map"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.105498,
-          40.574628
-        ]
-      },
-      "properties": {
-        "name": "Poudre Supply Canal",
-        "type": "canal",
-        "description": "Proposed water supply canal running along the eastern portion of the map"
+        "name": "Grand Lake",
+        "type": "lake",
+        "description": "Natural lake within Rocky Mountain National Park"
       }
     }
   ]
