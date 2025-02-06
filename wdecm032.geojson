@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.653251,
-              40.488137
+              -106.652951,
+              40.488181
             ],
             [
-              -105.794834,
-              40.488137
+              -105.851573,
+              40.488181
             ],
             [
-              -105.794834,
-              40.709664
+              -105.851573,
+              40.79708
             ],
             [
-              -106.653251,
-              40.709664
+              -106.652951,
+              40.79708
             ],
             [
-              -106.653251,
-              40.488137
+              -106.652951,
+              40.488181
             ]
           ]
         ]
@@ -39,14 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.539408,
-          40.709948
+          -106.415743,
+          40.622324
         ]
       },
       "properties": {
-        "name": "North Platte",
+        "name": "North Fork Cache La Poudre River",
         "type": "river",
-        "description": "Major river system shown in blue, forming part of the transmountain diversion system"
+        "description": "Major river system shown in blue running through the central portion of the map"
       }
     },
     {
@@ -54,29 +54,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.206313,
-          40.533594
+          -106.54899,
+          40.534354
+        ]
+      },
+      "properties": {
+        "name": "Poudre Pass Lake",
+        "type": "lake",
+        "description": "Lake marked in blue in the western portion of the map"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.529891,
+          40.534241
         ]
       },
       "properties": {
         "name": "Proposed Canal",
         "type": "canal",
-        "description": "Proposed transmountain diversion infrastructure marked in green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.41599,
-          40.694578
-        ]
-      },
-      "properties": {
-        "name": "Poudre Creek",
-        "type": "creek",
-        "description": "Natural waterway that appears to be part of the diversion system"
+        "description": "Green lined feature showing planned water diversion route"
       }
     }
   ]
