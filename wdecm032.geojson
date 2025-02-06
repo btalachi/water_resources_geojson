@@ -9,14 +9,14 @@
           [
             [
               -106.653251,
-              40.519133
+              40.488137
             ],
             [
-              -105.851598,
-              40.519133
+              -105.794834,
+              40.488137
             ],
             [
-              -105.851598,
+              -105.794834,
               40.709664
             ],
             [
@@ -25,7 +25,7 @@
             ],
             [
               -106.653251,
-              40.519133
+              40.488137
             ]
           ]
         ]
@@ -39,29 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.321417,
-          40.548241
-        ]
-      },
-      "properties": {
-        "name": "North La Poudre Canal",
-        "type": "canal",
-        "description": "A proposed transmountain diversion canal system shown with detailed routing through multiple townships"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -106.539408,
           40.709948
         ]
       },
       "properties": {
-        "name": "Poudre Lake",
-        "type": "lake",
-        "description": "A significant water body shown in blue in the western portion of the map"
+        "name": "North Platte",
+        "type": "river",
+        "description": "Major river system shown in blue, forming part of the transmountain diversion system"
       }
     },
     {
@@ -69,14 +54,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.851675,
-          40.575202
+          -106.206313,
+          40.533594
         ]
       },
       "properties": {
-        "name": "Sand Creek",
+        "name": "Proposed Canal",
+        "type": "canal",
+        "description": "Proposed transmountain diversion infrastructure marked in green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41599,
+          40.694578
+        ]
+      },
+      "properties": {
+        "name": "Poudre Creek",
         "type": "creek",
-        "description": "A natural waterway shown crossing through the eastern portion of the map"
+        "description": "Natural waterway that appears to be part of the diversion system"
       }
     }
   ]
