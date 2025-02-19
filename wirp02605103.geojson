@@ -8,30 +8,53 @@
         "coordinates": [
           [
             [
-              -106.017853,
-              40.311287
+              -105.909652,
+              40.40082
             ],
             [
-              -105.565396,
-              40.311287
+              -105.335353,
+              40.40082
             ],
             [
-              -105.565396,
-              40.662888
+              -105.335353,
+              40.661529
             ],
             [
-              -106.017853,
-              40.662888
+              -105.909652,
+              40.661529
             ],
             [
-              -106.017853,
-              40.311287
+              -105.909652,
+              40.40082
             ]
           ]
         ]
       },
       "properties": {
-        "name": "Map Boundary"
+        "name": "Map Boundary",
+        "source": "Derived from Map-Level Township Ranges",
+        "map_township_ranges_used": [
+          "T8N R76W Section 15",
+          "T7N R73W Section 15",
+          "T6N R71W Section 15",
+          "T5N R74W Section 15"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.778014,
+          40.308446
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Township-Range: T4N R75W Section 15",
+        "township_range_used": "T4N R75W Section 15"
       }
     },
     {
@@ -46,52 +69,8 @@
       "properties": {
         "name": "Carter Lake",
         "type": "reservoir",
-        "description": "Existing lake with proposed reservoir system connections"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.219692,
-          40.573354
-        ]
-      },
-      "properties": {
-        "name": "Proposed Power Supply Canal",
-        "type": "canal",
-        "description": "Major canal system planned for power generation and water transport"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.787293,
-          40.396047
-        ]
-      },
-      "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "description": "Natural lake integrated into the water supply system"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.787293,
-          40.396047
-        ]
-      },
-      "properties": {
-        "name": "North Fork Diversion Dam",
-        "type": "dam",
-        "description": "Proposed diversion structure on the North Fork"
+        "coordinate_source": "Township-Range: T5N R70W Section 15",
+        "township_range_used": "T5N R70W Section 15"
       }
     }
   ]
