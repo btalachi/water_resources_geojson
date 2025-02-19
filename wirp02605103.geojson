@@ -12,11 +12,11 @@
               40.309456
             ],
             [
-              -105.328984,
+              -105.439148,
               40.309456
             ],
             [
-              -105.328984,
+              -105.439148,
               40.663455
             ],
             [
@@ -40,8 +40,7 @@
           "T6N R75W Section 15",
           "T6N R74W Section 15",
           "T5N R73W Section 15",
-          "T4N R72W Section 15",
-          "T4N R71W Section 15"
+          "T4N R72W Section 15"
         ]
       }
     },
@@ -50,15 +49,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.77854,
-          40.219581
+          -105.778014,
+          40.308446
         ]
       },
       "properties": {
         "name": "Grand Lake",
         "type": "lake",
-        "coordinate_source": "Township-Range: T3N R75W Section 15",
-        "township_range_used": "T3N R75W Section 15"
+        "coordinate_source": "Township-Range: T4N R75W Section 15",
+        "township_range_used": "T4N R75W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.335353,
+          40.485262
+        ]
+      },
+      "properties": {
+        "name": "Proposed Power Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Township-Range: T6N R71W Section 15",
+        "township_range_used": "T6N R71W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.215833,
+          40.312196
+        ]
+      },
+      "properties": {
+        "name": "Carter Lake",
+        "type": "reservoir",
+        "coordinate_source": "Township-Range: T4N R70W Section 15",
+        "township_range_used": "T4N R70W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.778014,
+          40.308446
+        ]
+      },
+      "properties": {
+        "name": "Proposed N. Fork Diversion Dam",
+        "type": "dam",
+        "coordinate_source": "Township-Range: T4N R75W Section 15",
+        "township_range_used": "T4N R75W Section 15"
       }
     }
   ]
