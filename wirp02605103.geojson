@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -105.909652,
-              40.40082
+              -106.131759,
+              40.309456
             ],
             [
-              -105.335353,
-              40.40082
+              -105.328984,
+              40.309456
             ],
             [
-              -105.335353,
-              40.661529
+              -105.328984,
+              40.663455
             ],
             [
-              -105.909652,
-              40.661529
+              -106.131759,
+              40.663455
             ],
             [
-              -105.909652,
-              40.40082
+              -106.131759,
+              40.309456
             ]
           ]
         ]
@@ -34,10 +34,14 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T8N R76W Section 15",
-          "T7N R73W Section 15",
-          "T6N R71W Section 15",
-          "T5N R74W Section 15"
+          "T8N R78W Section 15",
+          "T7N R77W Section 15",
+          "T7N R76W Section 15",
+          "T6N R75W Section 15",
+          "T6N R74W Section 15",
+          "T5N R73W Section 15",
+          "T4N R72W Section 15",
+          "T4N R71W Section 15"
         ]
       }
     },
@@ -46,31 +50,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.778014,
-          40.308446
+          -105.77854,
+          40.219581
         ]
       },
       "properties": {
         "name": "Grand Lake",
         "type": "lake",
-        "coordinate_source": "Township-Range: T4N R75W Section 15",
-        "township_range_used": "T4N R75W Section 15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.221436,
-          40.399967
-        ]
-      },
-      "properties": {
-        "name": "Carter Lake",
-        "type": "reservoir",
-        "coordinate_source": "Township-Range: T5N R70W Section 15",
-        "township_range_used": "T5N R70W Section 15"
+        "coordinate_source": "Township-Range: T3N R75W Section 15",
+        "township_range_used": "T3N R75W Section 15"
       }
     }
   ]
