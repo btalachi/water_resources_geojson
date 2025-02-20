@@ -8,30 +8,40 @@
         "coordinates": [
           [
             [
-              -106.652951,
-              40.488181
+              -106.596041,
+              40.403029
             ],
             [
-              -105.851573,
-              40.488181
+              -106.131068,
+              40.403029
             ],
             [
-              -105.851573,
-              40.79708
+              -106.131068,
+              40.92683
             ],
             [
-              -106.652951,
-              40.79708
+              -106.596041,
+              40.92683
             ],
             [
-              -106.652951,
-              40.488181
+              -106.596041,
+              40.403029
             ]
           ]
         ]
       },
       "properties": {
-        "name": "Map Boundary"
+        "name": "Map Boundary",
+        "source": "Derived from Map-Level Township Ranges",
+        "map_township_ranges_used": [
+          "T11N R82W Section 15",
+          "T10N R82W Section 15",
+          "T9N R82W Section 15",
+          "T8N R81W Section 15",
+          "T7N R80W Section 15",
+          "T6N R79W Section 15",
+          "T5N R78W Section 15"
+        ]
       }
     },
     {
@@ -39,29 +49,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.415743,
-          40.622324
+          -106.586991,
+          40.57797
         ]
       },
       "properties": {
-        "name": "North Fork Cache La Poudre River",
-        "type": "river",
-        "description": "Major river system shown in blue running through the central portion of the map"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.54899,
-          40.534354
-        ]
-      },
-      "properties": {
-        "name": "Poudre Pass Lake",
+        "name": "Poudre Lake",
         "type": "lake",
-        "description": "Lake marked in blue in the western portion of the map"
+        "coordinate_source": "Township-Range: T7N R82W Section 15",
+        "township_range_used": "T7N R82W Section 15"
       }
     },
     {
@@ -69,14 +65,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.529891,
-          40.534241
+          -106.481527,
+          40.752856
         ]
       },
       "properties": {
-        "name": "Proposed Canal",
-        "type": "canal",
-        "description": "Green lined feature showing planned water diversion route"
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Township-Range: T9N R81W Section 15",
+        "township_range_used": "T9N R81W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.472175,
+          40.665231
+        ]
+      },
+      "properties": {
+        "name": "Shadow Mountain Lake",
+        "type": "lake",
+        "coordinate_source": "Township-Range: T8N R81W Section 15",
+        "township_range_used": "T8N R81W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.63907118575803,
+          43.10681884932785
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Willow Creek",
+        "township_range_used": null
       }
     }
   ]
