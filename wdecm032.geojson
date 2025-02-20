@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.596041,
-              40.392313
+              -106.709243,
+              40.402497
             ],
             [
-              -106.586991,
-              40.392313
+              -106.017055,
+              40.402497
             ],
             [
-              -106.586991,
-              40.92683
+              -106.017055,
+              40.927363
             ],
             [
-              -106.596041,
-              40.92683
+              -106.709243,
+              40.927363
             ],
             [
-              -106.596041,
-              40.392313
+              -106.709243,
+              40.402497
             ]
           ]
         ]
@@ -34,30 +34,14 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T5N R82W Section 15",
-          "T6N R82W Section 15",
-          "T7N R82W Section 15",
-          "T8N R82W Section 15",
-          "T9N R82W Section 15",
+          "T11N R83W Section 15",
           "T10N R82W Section 15",
-          "T11N R82W Section 15"
+          "T9N R81W Section 15",
+          "T8N R80W Section 15",
+          "T7N R79W Section 15",
+          "T6N R78W Section 15",
+          "T5N R77W Section 15"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.80731145211017,
-          40.42259235
-        ]
-      },
-      "properties": {
-        "name": "Poudre Lake",
-        "type": "lake",
-        "coordinate_source": "Geocoded from name: Poudre Lake",
-        "township_range_used": ""
       }
     },
     {
@@ -81,14 +65,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.7274822527181,
-          45.172456249999996
+          -106.367061,
+          40.752421
         ]
       },
       "properties": {
-        "name": "Sand Creek",
+        "name": "North Shore State Park",
+        "type": "reservoir",
+        "coordinate_source": "Township-Range: T9N R80W Section 15",
+        "township_range_used": "T9N R80W Section 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.770897,
+          49.9358323
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek",
         "type": "creek",
-        "coordinate_source": "Geocoded from name: Sand Creek",
+        "coordinate_source": "Geocoded from name: Willow Creek",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81815,
+          39.9508465
+        ]
+      },
+      "properties": {
+        "name": "Saint Louis Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Saint Louis Creek",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30674748600819,
+          39.4222158536289
+        ]
+      },
+      "properties": {
+        "name": "Ranch Creek",
+        "type": "creek",
+        "coordinate_source": "Geocoded from name: Ranch Creek",
         "township_range_used": ""
       }
     }
