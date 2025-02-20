@@ -9,14 +9,14 @@
           [
             [
               -106.596041,
-              40.403029
+              40.392313
             ],
             [
-              -106.131068,
-              40.403029
+              -106.586991,
+              40.392313
             ],
             [
-              -106.131068,
+              -106.586991,
               40.92683
             ],
             [
@@ -25,7 +25,7 @@
             ],
             [
               -106.596041,
-              40.403029
+              40.392313
             ]
           ]
         ]
@@ -34,13 +34,13 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T11N R82W Section 15",
-          "T10N R82W Section 15",
+          "T5N R82W Section 15",
+          "T6N R82W Section 15",
+          "T7N R82W Section 15",
+          "T8N R82W Section 15",
           "T9N R82W Section 15",
-          "T8N R81W Section 15",
-          "T7N R80W Section 15",
-          "T6N R79W Section 15",
-          "T5N R78W Section 15"
+          "T10N R82W Section 15",
+          "T11N R82W Section 15"
         ]
       }
     },
@@ -49,15 +49,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.586991,
-          40.57797
+          -105.80731145211017,
+          40.42259235
         ]
       },
       "properties": {
         "name": "Poudre Lake",
         "type": "lake",
-        "coordinate_source": "Township-Range: T7N R82W Section 15",
-        "township_range_used": "T7N R82W Section 15"
+        "coordinate_source": "Geocoded from name: Poudre Lake",
+        "township_range_used": ""
       }
     },
     {
@@ -65,15 +65,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.481527,
-          40.752856
+          -1.8669821,
+          51.6559805
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "coordinate_source": "Township-Range: T9N R81W Section 15",
-        "township_range_used": "T9N R81W Section 15"
+        "name": "Proposed Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: Proposed Canal",
+        "township_range_used": ""
       }
     },
     {
@@ -81,31 +81,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.472175,
-          40.665231
+          -91.7274822527181,
+          45.172456249999996
         ]
       },
       "properties": {
-        "name": "Shadow Mountain Lake",
-        "type": "lake",
-        "coordinate_source": "Township-Range: T8N R81W Section 15",
-        "township_range_used": "T8N R81W Section 15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.63907118575803,
-          43.10681884932785
-        ]
-      },
-      "properties": {
-        "name": "Willow Creek",
+        "name": "Sand Creek",
         "type": "creek",
-        "coordinate_source": "Geocoded from name: Willow Creek",
-        "township_range_used": null
+        "coordinate_source": "Geocoded from name: Sand Creek",
+        "township_range_used": ""
       }
     }
   ]
