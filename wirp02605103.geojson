@@ -8,7 +8,7 @@
         "coordinates": [
           [
             [
-              -106.54270076542284,
+              -122.4982159610348,
               39.3723679
             ],
             [
@@ -17,14 +17,14 @@
             ],
             [
               -105.1326096,
-              40.7440806
+              42.75635162004153
             ],
             [
-              -106.54270076542284,
-              40.7440806
+              -122.4982159610348,
+              42.75635162004153
             ],
             [
-              -106.54270076542284,
+              -122.4982159610348,
               39.3723679
             ]
           ]
@@ -38,7 +38,8 @@
           "T7N Section 15",
           "T6N Section 15",
           "T5N Section 15",
-          "T4N Section 15"
+          "T4N Section 15",
+          "T3N Section 15"
         ]
       }
     },
@@ -63,38 +64,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.25877064062789,
-          40.21766313491101
-        ]
-      },
-      "properties": {
-        "name": "St. Vrain Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.45098466893376,
-          40.45373932121497
-        ]
-      },
-      "properties": {
-        "name": "North Fork Big Thompson River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: North Fork Big Thompson River",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.1326096,
           40.7440806
         ]
@@ -103,6 +72,54 @@
         "name": "Poudre Supply Canal",
         "type": "canal",
         "coordinate_source": "Geocoded from name: Poudre Supply Canal",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2653391,
+          40.4151047
+        ]
+      },
+      "properties": {
+        "name": "Big Thompson River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: Big Thompson River",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.823067,
+          40.2522073
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Grand Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4982159610348,
+          42.75635162004153
+        ]
+      },
+      "properties": {
+        "name": "North Fork Diversion Dam",
+        "type": "dam",
+        "coordinate_source": "Geocoded from name: North Fork Diversion Dam",
         "township_range_used": ""
       }
     },
