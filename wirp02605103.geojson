@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -105.823067,
-              40.2522073
+              -106.54270076542284,
+              39.3723679
             ],
             [
-              -105.823067,
-              40.2522073
+              -105.1326096,
+              39.3723679
             ],
             [
-              -105.823067,
-              40.2522073
+              -105.1326096,
+              40.7440806
             ],
             [
-              -105.823067,
-              40.2522073
+              -106.54270076542284,
+              40.7440806
             ],
             [
-              -105.823067,
-              40.2522073
+              -106.54270076542284,
+              39.3723679
             ]
           ]
         ]
@@ -47,14 +47,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.823067,
-          40.2522073
+          -106.54270076542284,
+          39.3723679
         ]
       },
       "properties": {
-        "name": "Grand Lake",
-        "type": "lake",
-        "coordinate_source": "Geocoded from name: Grand Lake",
+        "name": "Carter Lake",
+        "type": "reservoir",
+        "coordinate_source": "Geocoded from name: Carter Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.25877064062789,
+          40.21766313491101
+        ]
+      },
+      "properties": {
+        "name": "St. Vrain Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45098466893376,
+          40.45373932121497
+        ]
+      },
+      "properties": {
+        "name": "North Fork Big Thompson River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: North Fork Big Thompson River",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1326096,
+          40.7440806
+        ]
+      },
+      "properties": {
+        "name": "Poudre Supply Canal",
+        "type": "canal",
+        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.17296905,
+          40.6414525
+        ]
+      },
+      "properties": {
+        "name": "Cache la Poudre River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: Cache la Poudre River",
         "township_range_used": ""
       }
     }
