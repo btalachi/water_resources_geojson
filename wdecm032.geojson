@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.595073,
-              40.402497
+              -106.589193,
+              40.392313
             ],
             [
-              -106.017055,
-              40.402497
+              -106.477262,
+              40.392313
             ],
             [
-              -106.017055,
-              40.92683
+              -106.477262,
+              40.927634
             ],
             [
-              -106.595073,
-              40.92683
+              -106.589193,
+              40.927634
             ],
             [
-              -106.595073,
-              40.402497
+              -106.589193,
+              40.392313
             ]
           ]
         ]
@@ -34,14 +34,30 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T11N R82W Section 15",
-          "T10N R82W Section 15",
+          "T5N R82W Section 15",
+          "T6N R82W Section 15",
+          "T7N R82W Section 15",
+          "T8N R82W Section 15",
           "T9N R81W Section 15",
-          "T8N R80W Section 15",
-          "T7N R79W Section 15",
-          "T6N R78W Section 15",
-          "T5N R77W Section 15"
+          "T10N R81W Section 15",
+          "T11N R81W Section 15"
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.481527,
+          40.752856
+        ]
+      },
+      "properties": {
+        "name": "Poudre Site Dam and Lake",
+        "type": "reservoir",
+        "coordinate_source": "Township-Range: T9N R81W Section 15",
+        "township_range_used": "T9N R81W Section 15"
       }
     },
     {
@@ -73,22 +89,6 @@
         "name": "Sand Creek",
         "type": "creek",
         "coordinate_source": "Geocoded from name: Sand Creek",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.346336379025,
-          40.88177595
-        ]
-      },
-      "properties": {
-        "name": "Halligan Reservoir",
-        "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Halligan Reservoir",
         "township_range_used": ""
       }
     }
