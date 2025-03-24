@@ -8,7 +8,7 @@
         "coordinates": [
           [
             [
-              -105.909652,
+              -106.131759,
               40.310969
             ],
             [
@@ -17,14 +17,14 @@
             ],
             [
               -105.553514,
-              40.661529
+              40.663455
             ],
             [
-              -105.909652,
-              40.661529
+              -106.131759,
+              40.663455
             ],
             [
-              -105.909652,
+              -106.131759,
               40.310969
             ]
           ]
@@ -34,44 +34,13 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T8N R76W Section 15",
+          "T8N R78W Section 15",
+          "T7N R77W Section 15",
           "T7N R76W Section 15",
           "T6N R75W Section 15",
           "T5N R74W Section 15",
           "T4N R73W Section 15"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.1326096,
-          40.7440806
-        ]
-      },
-      "properties": {
-        "name": "Poudre Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: Poudre Supply Canal",
-        "township_range_used": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.17296905,
-          40.6414525
-        ]
-      },
-      "properties": {
-        "name": "Cache la Poudre River",
-        "type": "river",
-        "coordinate_source": "Geocoded from name: Cache la Poudre River",
-        "township_range_used": ""
       }
     },
     {
@@ -95,14 +64,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.54270076542284,
-          39.3723679
+          -105.84307525298914,
+          40.2287823
         ]
       },
       "properties": {
-        "name": "Carter Lake",
+        "name": "Shadow Mountain Lake",
         "type": "reservoir",
-        "coordinate_source": "Geocoded from name: Carter Lake",
+        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
         "township_range_used": ""
       }
     },
@@ -111,14 +80,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4982159610348,
-          42.75635162004153
+          -108.4861294669741,
+          39.05689950336452
         ]
       },
       "properties": {
-        "name": "North Fork Diversion Dam",
-        "type": "dam",
-        "coordinate_source": "Geocoded from name: North Fork Diversion Dam",
+        "name": "Colorado River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: Colorado River",
         "township_range_used": ""
       }
     },
@@ -127,14 +96,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.25877064062789,
-          40.21766313491101
+          -105.2996194,
+          40.6867882
         ]
       },
       "properties": {
-        "name": "St. Vrain Supply Canal",
-        "type": "canal",
-        "coordinate_source": "Geocoded from name: St. Vrain Supply Canal",
+        "name": "Cache la Poudre River",
+        "type": "river",
+        "coordinate_source": "Geocoded from name: Cache la Poudre River",
         "township_range_used": ""
       }
     },
