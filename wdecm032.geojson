@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -106.589193,
-              40.392313
+              -106.595073,
+              40.401447
             ],
             [
-              -106.477262,
-              40.392313
+              -105.560902,
+              40.401447
             ],
             [
-              -106.477262,
-              40.927634
+              -105.560902,
+              40.840683
             ],
             [
-              -106.589193,
-              40.927634
+              -106.595073,
+              40.840683
             ],
             [
-              -106.589193,
-              40.392313
+              -106.595073,
+              40.401447
             ]
           ]
         ]
@@ -34,30 +34,17 @@
         "name": "Map Boundary",
         "source": "Derived from Map-Level Township Ranges",
         "map_township_ranges_used": [
-          "T5N R82W Section 15",
-          "T6N R82W Section 15",
-          "T7N R82W Section 15",
-          "T8N R82W Section 15",
+          "T10N R82W Section 15",
           "T9N R81W Section 15",
-          "T10N R81W Section 15",
-          "T11N R81W Section 15"
+          "T8N R80W Section 15",
+          "T7N R79W Section 15",
+          "T6N R78W Section 15",
+          "T9N R77W Section 15",
+          "T8N R76W Section 15",
+          "T7N R75W Section 15",
+          "T6N R74W Section 15",
+          "T5N R73W Section 15"
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.481527,
-          40.752856
-        ]
-      },
-      "properties": {
-        "name": "Poudre Site Dam and Lake",
-        "type": "reservoir",
-        "coordinate_source": "Township-Range: T9N R81W Section 15",
-        "township_range_used": "T9N R81W Section 15"
       }
     },
     {
@@ -81,14 +68,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.90336736453229,
-          39.784626395041876
+          -105.80731145211017,
+          40.42259235
         ]
       },
       "properties": {
-        "name": "Sand Creek",
-        "type": "creek",
-        "coordinate_source": "Geocoded from name: Sand Creek",
+        "name": "Poudre Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Poudre Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.823067,
+          40.2522073
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Grand Lake",
+        "township_range_used": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.84307525298914,
+          40.2287823
+        ]
+      },
+      "properties": {
+        "name": "Shadow Mountain Lake",
+        "type": "lake",
+        "coordinate_source": "Geocoded from name: Shadow Mountain Lake",
         "township_range_used": ""
       }
     }
